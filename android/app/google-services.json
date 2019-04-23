@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "457755981463",
+    "firebase_url": "https://rncamera-e1ad9.firebaseio.com",
+    "project_id": "rncamera-e1ad9",
+    "storage_bucket": "rncamera-e1ad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457755981463:android:a92d09cbe1e8353c",
+        "android_client_info": {
+          "package_name": "com.businesscards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457755981463-q027hnkimobpo0kgj1tak2n2sm43h58b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfulWtJtBxSUt9XrxftQjRE08o6ZiSM74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457755981463-q027hnkimobpo0kgj1tak2n2sm43h58b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

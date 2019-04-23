@@ -15,6 +15,9 @@ const PICTURE_OPTIONS = {
   quality: 1,
   fixOrientation: true,
   forceUpOrientation: true
+  // fixOrientation: false,
+  // skipProcessing: true,
+  // width: 1920
 };
 
 export default class App extends React.Component {
